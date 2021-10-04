@@ -28,3 +28,18 @@ export const projects = [
     link: "https://reactbootcamp.com",
   }
 ]
+
+export const skills = [
+  {
+    name: "Javascript",
+  },
+  {
+    name: "Java",
+  },
+  {
+    name: "C#",
+  },
+  {
+    name: "HTML",
+  }
+]
